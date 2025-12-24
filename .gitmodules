@@ -1,0 +1,3 @@
+[submodule "/home/bonojovi/Data1/Linux/Projects/Rust/Baconian/.ai-context/shared"]
+	path = /home/bonojovi/Data1/Linux/Projects/Rust/Baconian/.ai-context/shared
+	url = https://github.com/BonoJovi/ai-context-shared.git
