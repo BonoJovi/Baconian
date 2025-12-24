@@ -11,6 +11,14 @@
 
 ---
 
+<div align="center">
+
+# Coming soon... Wait a next update please.
+
+</div>
+
+---
+
 ## About / 概要
 
 Baconian is a Rust project.
