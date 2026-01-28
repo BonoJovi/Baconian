@@ -4,6 +4,7 @@
 
 > **A Rust Project**
 
+[![Version](https://img.shields.io/badge/Version-0.1.0-blue)](https://github.com/BonoJovi/Baconian/releases/tag/v0.1.0)
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
